@@ -57,7 +57,7 @@
 ---
 
 ### 🚀 Projects:
-- [My Portfolio](https://majestic-cajeta-0a2d6a.netlify.app/indix.html)  
+- [My Portfolio]()  
 - More projects coming soon...
 
 ---
